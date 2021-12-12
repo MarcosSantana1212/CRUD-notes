@@ -1,2 +1,1 @@
-# CRUD-notes
-NODEJS + MONGODB + EXPRESS + DOTENV + BOOSTSTRAP + BCRYPT
+# video demostrativo:
